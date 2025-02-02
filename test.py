@@ -1,1 +1,1 @@
-print("Hello 'Tanish' These Is Jmaster V!")
+pint("Hello 'Tanish' These Is Jmaster V!")
